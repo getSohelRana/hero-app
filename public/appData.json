@@ -1,0 +1,92 @@
+[
+  {
+    "image": "https://i.ibb.co/8rC7tWq/app1.png",
+    "title": "ChatWave",
+    "companyName": "Wave Technologies",
+    "id": 1,
+    "description": "ChatWave is a fast and secure messaging app designed to connect people worldwide. It includes AI-powered chat suggestions, end-to-end encryption, group chats, media sharing, and customizable themes, making your messaging experience smarter, safer, and more fun.",
+    "size": 42,
+    "reviews": 1200,
+    "ratingAvg": 4.6,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 89 },
+      { "name": "3 star", "count": 156 },
+      { "name": "4 star", "count": 340 },
+      { "name": "5 star", "count": 570 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/JrLr4yk/app2.png",
+    "title": "FitTrack",
+    "companyName": "HealthSync Labs",
+    "id": 2,
+    "description": "FitTrack helps you monitor and improve your fitness and wellness. Track workouts, calories, heart rate, and sleep cycles with detailed analytics. It also provides personalized exercise recommendations, diet plans, and motivational reminders to help you reach your health goals efficiently.",
+    "size": 58,
+    "reviews": 970,
+    "ratingAvg": 4.3,
+    "downloads": 1400000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 102 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 310 },
+      { "name": "5 star", "count": 318 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/1mPCqX2/app3.png",
+    "title": "NoteSpace",
+    "companyName": "Creative Minds",
+    "id": 3,
+    "description": "NoteSpace is a minimalist note-taking app that lets you capture ideas quickly and organize them efficiently. Features include cloud sync, AI-powered summaries, tags, folders, rich text formatting, voice-to-text notes, and cross-device accessibility to keep your thoughts structured and accessible anywhere.",
+    "size": 27,
+    "reviews": 820,
+    "ratingAvg": 4.1,
+    "downloads": 850000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 290 },
+      { "name": "5 star", "count": 250 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/zJQfP8W/app4.png",
+    "title": "TaskHero",
+    "companyName": "NextGen Productivity",
+    "id": 4,
+    "description": "TaskHero is a gamified productivity app designed to help you organize tasks, set goals, and stay motivated. It features task lists, reminders, progress tracking, streaks, and rewards, turning your daily productivity into a fun and engaging experience.",
+    "size": 36,
+    "reviews": 450,
+    "ratingAvg": 4.0,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 65 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 140 },
+      { "name": "5 star", "count": 95 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/sq7RSPW/app5.png",
+    "title": "MusicVibe",
+    "companyName": "EchoStream Ltd",
+    "id": 5,
+    "description": "MusicVibe allows you to stream millions of songs with personalized playlists and recommendations. It supports offline playback, high-quality audio streaming, social sharing, collaborative playlists, and music discovery features that adapt to your unique taste, providing an immersive musical experience.",
+    "size": 80,
+    "reviews": 3400,
+    "ratingAvg": 4.7,
+    "downloads": 7800000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 170 },
+      { "name": "3 star", "count": 290 },
+      { "name": "4 star", "count": 780 },
+      { "name": "5 star", "count": 2030 }
+    ]
+  }
+]
