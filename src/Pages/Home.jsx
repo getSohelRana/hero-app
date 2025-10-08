@@ -20,7 +20,7 @@ const Home = () => {
           Explore All Trending Apps on the Market developed by us
         </p>
       </div>
-      <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 container mx-auto my-10">
+      <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 container mx-auto my-10 px-2">
         {hompageApps.map((app) => (
           <AppCards key={app.id} app={app}></AppCards>
         ))}
