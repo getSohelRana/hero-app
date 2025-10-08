@@ -8,7 +8,7 @@
     "size": 42,
     "reviews": 1200,
     "ratingAvg": 4.6,
-    "downloads": 2500000,
+    "downloads": "2.5M",
     "ratings": [
       { "name": "1 star", "count": 45 },
       { "name": "2 star", "count": 89 },
@@ -26,7 +26,7 @@
     "size": 58,
     "reviews": 970,
     "ratingAvg": 4.3,
-    "downloads": 1400000,
+    "downloads": "1.4M",
     "ratings": [
       { "name": "1 star", "count": 60 },
       { "name": "2 star", "count": 102 },
@@ -44,7 +44,7 @@
     "size": 27,
     "reviews": 820,
     "ratingAvg": 4.1,
-    "downloads": 850000,
+    "downloads": "850K",
     "ratings": [
       { "name": "1 star", "count": 50 },
       { "name": "2 star", "count": 70 },
@@ -62,7 +62,7 @@
     "size": 36,
     "reviews": 450,
     "ratingAvg": 4.0,
-    "downloads": 600000,
+    "downloads": "600K",
     "ratings": [
       { "name": "1 star", "count": 40 },
       { "name": "2 star", "count": 65 },
@@ -80,7 +80,7 @@
     "size": 80,
     "reviews": 3400,
     "ratingAvg": 4.7,
-    "downloads": 7800000,
+    "downloads": "7.8M",
     "ratings": [
       { "name": "1 star", "count": 130 },
       { "name": "2 star", "count": 170 },
@@ -98,7 +98,7 @@
     "size": 65,
     "reviews": 2100,
     "ratingAvg": 4.4,
-    "downloads": 3200000,
+    "downloads": "3.2M",
     "ratings": [
       { "name": "1 star", "count": 120 },
       { "name": "2 star", "count": 190 },
@@ -116,7 +116,7 @@
     "size": 72,
     "reviews": 2800,
     "ratingAvg": 4.5,
-    "downloads": 4500000,
+    "downloads": "4.5M",
     "ratings": [
       { "name": "1 star", "count": 150 },
       { "name": "2 star", "count": 210 },
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/jkdc3Gfv/Cook-Master.jpg",
+    "image": "https://i.ibb.co.com/4gNKTfZj/Cook-Master.jpg",
     "title": "CookMaster",
     "companyName": "KitchenCraft Ltd",
     "id": 8,
@@ -134,7 +134,7 @@
     "size": 49,
     "reviews": 950,
     "ratingAvg": 4.2,
-    "downloads": 1200000,
+    "downloads": "1.2M",
     "ratings": [
       { "name": "1 star", "count": 80 },
       { "name": "2 star", "count": 110 },
@@ -152,7 +152,7 @@
     "size": 41,
     "reviews": 1150,
     "ratingAvg": 4.3,
-    "downloads": 1600000,
+    "downloads": "1.6M",
     "ratings": [
       { "name": "1 star", "count": 70 },
       { "name": "2 star", "count": 100 },
@@ -170,7 +170,7 @@
     "size": 55,
     "reviews": 1870,
     "ratingAvg": 4.6,
-    "downloads": 2900000,
+    "downloads": "2.9M",
     "ratings": [
       { "name": "1 star", "count": 90 },
       { "name": "2 star", "count": 110 },
@@ -188,7 +188,7 @@
     "size": 63,
     "reviews": 2150,
     "ratingAvg": 4.4,
-    "downloads": 3500000,
+    "downloads": "3.5M",
     "ratings": [
       { "name": "1 star", "count": 130 },
       { "name": "2 star", "count": 160 },
@@ -206,7 +206,7 @@
     "size": 38,
     "reviews": 1320,
     "ratingAvg": 4.5,
-    "downloads": 2100000,
+    "downloads": "2.1M",
     "ratings": [
       { "name": "1 star", "count": 70 },
       { "name": "2 star", "count": 95 },
@@ -224,7 +224,7 @@
     "size": 95,
     "reviews": 4600,
     "ratingAvg": 4.2,
-    "downloads": 10000000,
+    "downloads": "10M",
     "ratings": [
       { "name": "1 star", "count": 400 },
       { "name": "2 star", "count": 520 },
@@ -242,7 +242,7 @@
     "size": 44,
     "reviews": 850,
     "ratingAvg": 4.1,
-    "downloads": 900000,
+    "downloads": "900K",
     "ratings": [
       { "name": "1 star", "count": 50 },
       { "name": "2 star", "count": 80 },
@@ -260,7 +260,7 @@
     "size": 52,
     "reviews": 1950,
     "ratingAvg": 4.5,
-    "downloads": 2700000,
+    "downloads": "2.7M",
     "ratings": [
       { "name": "1 star", "count": 100 },
       { "name": "2 star", "count": 130 },
@@ -278,7 +278,7 @@
     "size": 69,
     "reviews": 2450,
     "ratingAvg": 4.7,
-    "downloads": 4600000,
+    "downloads": "4.6M",
     "ratings": [
       { "name": "1 star", "count": 120 },
       { "name": "2 star", "count": 150 },
@@ -296,7 +296,7 @@
     "size": 59,
     "reviews": 3150,
     "ratingAvg": 4.6,
-    "downloads": 5400000,
+    "downloads": "5.4M",
     "ratings": [
       { "name": "1 star", "count": 150 },
       { "name": "2 star", "count": 180 },
@@ -314,7 +314,7 @@
     "size": 33,
     "reviews": 1700,
     "ratingAvg": 4.2,
-    "downloads": 3100000,
+    "downloads": "3.1M",
     "ratings": [
       { "name": "1 star", "count": 120 },
       { "name": "2 star", "count": 150 },
@@ -332,7 +332,7 @@
     "size": 77,
     "reviews": 2100,
     "ratingAvg": 4.5,
-    "downloads": 3700000,
+    "downloads": "3.7M",
     "ratings": [
       { "name": "1 star", "count": 130 },
       { "name": "2 star", "count": 160 },
@@ -350,7 +350,7 @@
     "size": 54,
     "reviews": 1620,
     "ratingAvg": 4.3,
-    "downloads": 2500000,
+    "downloads": "2.5M",
     "ratings": [
       { "name": "1 star", "count": 90 },
       { "name": "2 star", "count": 120 },
