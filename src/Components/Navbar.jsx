@@ -1,7 +1,6 @@
 import React from "react";
 import { Link, NavLink } from "react-router";
 import siteLogo from ".././assets/logo.png";
-import { GitBranch } from "lucide-react";
 import { FaGithub } from "react-icons/fa6";
 
 
@@ -16,7 +15,7 @@ const Navbar = () => {
 
    
   return (
-    <div className='shadow-sm'>
+    <div className='shadow-sm bg-white'>
       <div className="navbar container mx-auto">
         <div className="navbar-start">
           <div className="dropdown">
