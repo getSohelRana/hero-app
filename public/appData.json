@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://i.ibb.co/8rC7tWq/app1.png",
+    "image": "https://i.ibb.co.com/fVg3Wd6L/1.webp",
     "title": "ChatWave",
     "companyName": "Wave Technologies",
     "id": 1,
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/JrLr4yk/app2.png",
+    "image": "https://i.ibb.co.com/LdjjJM3L/unnamed.png",
     "title": "FitTrack",
     "companyName": "HealthSync Labs",
     "id": 2,
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/1mPCqX2/app3.png",
+    "image": "https://i.ibb.co.com/TDWNWkDF/Note-Space.webp",
     "title": "NoteSpace",
     "companyName": "Creative Minds",
     "id": 3,
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/zJQfP8W/app4.png",
+    "image": "https://i.ibb.co.com/Y4LQXrTb/TaskHero.webp",
     "title": "TaskHero",
     "companyName": "NextGen Productivity",
     "id": 4,
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/sq7RSPW/app5.png",
+    "image": "https://i.ibb.co.com/PGSn9NZ5/Music-Vibe.jpg",
     "title": "MusicVibe",
     "companyName": "EchoStream Ltd",
     "id": 5,
@@ -87,6 +87,276 @@
       { "name": "3 star", "count": 290 },
       { "name": "4 star", "count": 780 },
       { "name": "5 star", "count": 2030 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Q3snCVx4/Travel-Mate.png",
+    "title": "TravelMate",
+    "companyName": "JourneySoft Inc.",
+    "id": 6,
+    "description": "TravelMate simplifies your trip planning with itinerary management, hotel deals, flight tracking, and travel budgeting. Discover destinations, explore local attractions, and get AI-powered travel suggestions tailored to your preferences.",
+    "size": 65,
+    "reviews": 2100,
+    "ratingAvg": 4.4,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 190 },
+      { "name": "3 star", "count": 340 },
+      { "name": "4 star", "count": 640 },
+      { "name": "5 star", "count": 810 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KcTKXY6M/Photo-Snap.webp",
+    "title": "PhotoSnap",
+    "companyName": "PixelPerfect Studio",
+    "id": 7,
+    "description": "PhotoSnap is an advanced photo editing app that allows you to create stunning visuals with AI filters, background remover, retouch tools, and professional presets. It supports RAW editing and social sharing directly from the app.",
+    "size": 72,
+    "reviews": 2800,
+    "ratingAvg": 4.5,
+    "downloads": 4500000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 720 },
+      { "name": "5 star", "count": 1420 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/jkdc3Gfv/Cook-Master.jpg",
+    "title": "CookMaster",
+    "companyName": "KitchenCraft Ltd",
+    "id": 8,
+    "description": "CookMaster helps you find, organize, and create recipes easily. Explore global cuisines, watch step-by-step video guides, and generate shopping lists based on your meal plans. Great for both beginner and expert chefs.",
+    "size": 49,
+    "reviews": 950,
+    "ratingAvg": 4.2,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 170 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 310 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/sdjJBNLg/Finance-Pro.jpg",
+    "title": "FinancePro",
+    "companyName": "SmartMoney Apps",
+    "id": 9,
+    "description": "FinancePro empowers users to manage expenses, track income, set budgets, and analyze spending habits. It includes AI insights, multi-currency support, and secure cloud backups for financial data management.",
+    "size": 41,
+    "reviews": 1150,
+    "ratingAvg": 4.3,
+    "downloads": 1600000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 450 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/k2XHvR2M/Study-Buddy.webp",
+    "title": "StudyBuddy",
+    "companyName": "EduWave Systems",
+    "id": 10,
+    "description": "StudyBuddy makes learning smarter with flashcards, quizzes, and AI tutors. It supports note syncing, offline study mode, and progress analytics to help students of all levels learn efficiently and stay motivated.",
+    "size": 55,
+    "reviews": 1870,
+    "ratingAvg": 4.6,
+    "downloads": 2900000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 930 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/BKS6G2g6/Shop-Smart.jpg",
+    "title": "ShopSmart",
+    "companyName": "BuyRight Inc.",
+    "id": 11,
+    "description": "ShopSmart offers exclusive deals, cashback rewards, and AI-based product recommendations. Track prices, compare sellers, and manage wishlists — all in one place for a better shopping experience.",
+    "size": 63,
+    "reviews": 2150,
+    "ratingAvg": 4.4,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 620 },
+      { "name": "5 star", "count": 960 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KpzmpbSj/MindEase.webp",
+    "title": "MindEase",
+    "companyName": "ZenLabs",
+    "id": 12,
+    "description": "MindEase provides guided meditation, sleep sounds, breathing exercises, and mindfulness tools to reduce stress and improve focus. It personalizes your sessions based on your mood and progress tracking.",
+    "size": 38,
+    "reviews": 1320,
+    "ratingAvg": 4.5,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 95 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 605 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/4R35KZCq/GameZone.webp",
+    "title": "GameZone",
+    "companyName": "PlayHub Studio",
+    "id": 13,
+    "description": "GameZone lets you explore and play a vast collection of free online games. Track achievements, connect with friends, and earn rewards for playing. Includes leaderboards, community events, and custom avatars.",
+    "size": 95,
+    "reviews": 4600,
+    "ratingAvg": 4.2,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 880 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 1200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/kgVQg5WV/DocuSafe.png",
+    "title": "DocuSafe",
+    "companyName": "SecureCloud Systems",
+    "id": 14,
+    "description": "DocuSafe securely stores and encrypts your documents in the cloud. Features include file sharing, multi-device sync, password protection, and smart search for fast access anytime, anywhere.",
+    "size": 44,
+    "reviews": 850,
+    "ratingAvg": 4.1,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 280 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/bRNxSc39/Foodie-Finder.png",
+    "title": "FoodieFinder",
+    "companyName": "UrbanEats Tech",
+    "id": 15,
+    "description": "FoodieFinder helps you discover nearby restaurants, street food spots, and hidden gems. Read real reviews, order online, and get personalized dining recommendations based on your taste preferences.",
+    "size": 52,
+    "reviews": 1950,
+    "ratingAvg": 4.5,
+    "downloads": 2700000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 520 },
+      { "name": "5 star", "count": 960 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fYN7ZyDQ/bookhaven.webp",
+    "title": "BookHaven",
+    "companyName": "ReadMore Inc.",
+    "id": 16,
+    "description": "BookHaven lets book lovers discover, read, and discuss novels from around the world. Includes e-reader integration, offline library, audiobook options, and a thriving reading community.",
+    "size": 69,
+    "reviews": 2450,
+    "ratingAvg": 4.7,
+    "downloads": 4600000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 670 },
+      { "name": "5 star", "count": 1230 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/r2KKwtS5/Learn-Lang.jpg",
+    "title": "LearnLang",
+    "companyName": "LinguaTech",
+    "id": 17,
+    "description": "LearnLang makes mastering new languages easy with AI tutors, pronunciation feedback, gamified lessons, and daily challenges. Learn over 30 languages interactively and track your progress.",
+    "size": 59,
+    "reviews": 3150,
+    "ratingAvg": 4.6,
+    "downloads": 5400000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 740 },
+      { "name": "5 star", "count": 1780 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/MDJdf5zc/Weather-Now.png",
+    "title": "WeatherNow",
+    "companyName": "SkyWatchers",
+    "id": 18,
+    "description": "WeatherNow provides real-time weather updates, forecasts, and alerts. It includes radar maps, air quality data, and widget support to keep you informed of changing conditions anywhere in the world.",
+    "size": 33,
+    "reviews": 1700,
+    "ratingAvg": 4.2,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 480 },
+      { "name": "5 star", "count": 650 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/21C33Z6j/Artify.png",
+    "title": "Artify",
+    "companyName": "VisionCraft Labs",
+    "id": 19,
+    "description": "Artify lets you create digital art using AI-generated styles, brushes, and filters. Transform sketches into masterpieces, collaborate with artists, and export in high resolution.",
+    "size": 77,
+    "reviews": 2100,
+    "ratingAvg": 4.5,
+    "downloads": 3700000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 640 },
+      { "name": "5 star", "count": 890 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1GTGgrhW/Drive-Sync.png",
+    "title": "DriveSync",
+    "companyName": "AutoSmart Mobility",
+    "id": 20,
+    "description": "DriveSync enhances your driving experience by tracking trips, fuel usage, and car maintenance schedules. Get performance insights, safety tips, and smart navigation tools with offline map support.",
+    "size": 54,
+    "reviews": 1620,
+    "ratingAvg": 4.3,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 670 }
     ]
   }
 ]
