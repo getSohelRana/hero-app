@@ -1,8 +1,8 @@
 import React from 'react';
 import downloadIcon from '.././assets/icon-downloads.png'
 import ratingIcon from '.././assets/icon-ratings.png'
-const InstallCard = ({app , handleAddToInstall}) => {
-    const { title, image, downloads, ratingAvg, size } = app|| {};
+const InstallCard = ({app ,  handleUnstallApp}) => {
+    const { title, image, downloads, ratingAvg, size, id } = app|| {};
     return (
         <div className='my-10 container mx-auto px-2 '>
          
@@ -30,7 +30,7 @@ const InstallCard = ({app , handleAddToInstall}) => {
                             </div>
                         </div>
                         <div>
-                            <button onClick={handleAddToInstall} className="btn bg-[#00D390] text-white">Uninstall</button>
+                            <button onClick={() => handleUnstallApp(id)} className="btn bg-[#00D390] text-white">Uninstall</button>
                         </div>
                     </div>
                 </div>

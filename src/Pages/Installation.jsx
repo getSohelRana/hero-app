@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import InstallCard from "../Components/InstallCard";
+import { toast, ToastContainer } from "react-toastify";
 
 const Installation = () => {
   const [installation, setInstallation] = useState([]);
@@ -22,6 +23,15 @@ const Installation = () => {
       return installation
     }
   }) ()
+
+  // app uninstall functionlity
+
+  const handleUnstallApp = (id) =>{
+    const installedApp = installation.filter((a) => a.id !== id);
+    setInstallation(installedApp);
+    localStorage.setItem('install' , JSON.stringify(installedApp))
+    toast.success('App Uninstall Successfully');
+  }
 
   return (
     <div className="my-10 container mx-auto px-2 ">
@@ -49,9 +59,10 @@ const Installation = () => {
       </div>
       <div>
         {sortedItems.map((app) => (
-          <InstallCard key={app.id} app={app}></InstallCard>
+          <InstallCard key={app.id} app={app} handleUnstallApp={handleUnstallApp}></InstallCard>
         ))}
       </div>
+      <ToastContainer></ToastContainer>
     </div>
   );
 };
