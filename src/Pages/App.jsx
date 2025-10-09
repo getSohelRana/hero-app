@@ -6,6 +6,7 @@ const App = () => {
     const { apps, loading, error } = useApps();
     const [search, setSearch] = useState('')
     const toSignleString = search.trim().toLocaleLowerCase();
+
     if (loading) return <div className='flex justify-center items-center bg-gray-50 min-h-screen '>
         <span className="w-16 h-16 loading loading-spinner text-success"></span>
     </div>
@@ -54,6 +55,7 @@ const App = () => {
             </div>
             {/* search functionlity */}
             {
+                
                 searchedApps.length === 0 ? (
                     <div className="flex flex-col items-center justify-center h-[50vh] text-center mt-10">
                         <h2 className="text-3xl font-bold text-gray-700 mb-3">No Apps Found</h2>
@@ -61,10 +63,10 @@ const App = () => {
                             No apps match your search “{search}”.
                         </p>
                         <button
-                            onClick={() => window.history.back()}
+                            onClick={() => window.history.go()}
                             className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white mt-5"
                         >
-                            Go Back
+                            Show All Apps
                         </button>
                     </div>
                 ) : (

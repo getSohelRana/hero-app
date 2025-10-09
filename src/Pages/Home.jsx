@@ -9,6 +9,23 @@ const Home = () => {
   const { apps, loading, error } = useApps();
   const hompageApps = apps.slice(0, 8);
   // console.log(hompageApps)
+  //  loading spinner
+  if (loading) return <div className='flex justify-center items-center bg-white min-h-screen '>
+        <span className="w-16 h-16 loading loading-spinner text-success"></span>
+    </div>
+
+    // catch errow
+
+    if (error || !apps?.length) {
+        return (
+            <div className="flex flex-col items-center justify-center h-[60vh] text-center">
+                <h2 className="text-2xl font-bold text-gray-700 mb-3">No Apps Available</h2>
+                <p className="text-gray-500">
+                    Sorry, there are no apps to display right now.
+                </p>
+            </div>
+        );
+    }
   return (
     <div>
       <Banner></Banner>
