@@ -44,8 +44,8 @@ const Installation = () => {
         </p>
       </div>
       <div className="flex justify-between items-center my-5">
-        <div className='text-xl font-semibold'>{sortedItems.length} App Found </div>
-        <label className="form-control w-full max-w-sm">
+        <div className='text-xl font-semibold px-2'>{sortedItems.length} App Found </div>
+        <label className="form-control pr-2">
           <select
             className="select select-bordered text-xl"
             value={sortDownload}
