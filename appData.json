@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://i.ibb.co/fVg3Wd6L/1.webp",
+    "title": "ChatWave",
+    "companyName": "Wave Technologies",
+    "id": 1,
+    "description": "ChatWave revolutionizes the way you connect with the world, offering a seamless and secure messaging experience.  This cutting-edge app goes beyond basic messaging, integrating sophisticated AI-powered chat suggestions to anticipate your needs and streamline your conversations. Security is paramount, with robust end-to-end encryption ensuring your messages remain private and protected.  Dive into dynamic group chats, effortlessly share media of all types, and personalize your experience with a wide array of customizable themes.  ChatWave isn't just a messaging app; it's a smarter, safer, and more enjoyable way to communicate, fostering connections and keeping you in touch with the people who matter most, wherever they are.  Experience the future of messaging today!",
+    "size": 42,
+    "reviews": 1200,
+    "ratingAvg": 4.6,
+    "downloads": "2.5M",
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 89 },
+      { "name": "3 star", "count": 156 },
+      { "name": "4 star", "count": 340 },
+      { "name": "5 star", "count": 570 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/LdjjJM3L/unnamed.png",
+    "title": "FitTrack",
+    "companyName": "HealthSync Labs",
+    "id": 2,
+    "description": "Embark on a transformative journey to wellness with FitTrack, your all-in-one fitness companion.  This comprehensive app empowers you to meticulously monitor and enhance every facet of your health and fitness regimen.  Effortlessly track your workouts, meticulously calculate calorie intake and expenditure, and gain valuable insights into your heart rate patterns and sleep cycles, all presented through detailed and insightful analytics.  FitTrack takes personalization to the next level, providing tailored exercise recommendations designed to optimize your training, alongside customized diet plans perfectly aligned with your goals.  Receive timely and motivating reminders to keep you on track, ensuring consistent progress and helping you achieve your health aspirations efficiently and effectively. FitTrack is your personal coach in the palm of your hand!",
+    "size": 58,
+    "reviews": 970,
+    "ratingAvg": 4.3,
+    "downloads": "1.4M",
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 102 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 310 },
+      { "name": "5 star", "count": 318 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/TDWNWkDF/Note-Space.webp",
+    "title": "NoteSpace",
+    "companyName": "Creative Minds",
+    "id": 3,
+    "description": "Unleash your creativity and organize your thoughts with NoteSpace, the minimalist note-taking app designed for speed and efficiency.  Capture your brilliant ideas quickly and seamlessly, then effortlessly organize them for easy retrieval.  NoteSpace boasts a suite of powerful features, including cloud synchronization to keep your notes accessible across all your devices.  Harness the power of AI-powered summaries to distill complex information into concise overviews, and utilize tags and folders to categorize and manage your notes effectively.  Enjoy the flexibility of rich text formatting to structure your thoughts clearly, and use voice-to-text functionality for hands-free note-taking.  With cross-device accessibility, your thoughts are always at your fingertips, ensuring that your ideas are structured and readily available, wherever you are.",
+    "size": 27,
+    "reviews": 820,
+    "ratingAvg": 4.1,
+    "downloads": "850K",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 290 },
+      { "name": "5 star", "count": 250 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/Y4LQXrTb/TaskHero.webp",
+    "title": "TaskHero",
+    "companyName": "NextGen Productivity",
+    "id": 4,
+    "description": "Transform your daily routine from mundane to motivating with TaskHero, the gamified productivity app that makes getting things done fun!  Organize your tasks with intuitive lists, set ambitious goals to strive towards, and stay relentlessly motivated.  TaskHero features an engaging combination of task lists, timely reminders to keep you on track, progress tracking so you can visualize your accomplishments, streak systems to build positive habits, and rewarding achievements that make completing tasks feel incredibly satisfying. Turn your daily productivity into a fun, engaging, and rewarding experience that keeps you coming back for more.  With TaskHero, conquer your to-do list and achieve your goals while having a blast!",
+    "size": 36,
+    "reviews": 450,
+    "ratingAvg": 4.0,
+    "downloads": "600K",
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 65 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 140 },
+      { "name": "5 star", "count": 95 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/PGSn9NZ5/Music-Vibe.jpg",
+    "title": "MusicVibe",
+    "companyName": "EchoStream Ltd",
+    "id": 5,
+    "description": "Immerse yourself in a world of sound with MusicVibe, your gateway to millions of songs and personalized playlists. Discover music tailored to your unique tastes, with recommendations that evolve as you explore. Enjoy seamless streaming, complete with offline playback for music on the go.  Experience high-quality audio streaming that brings your favorite tracks to life.  Share your musical discoveries socially and create collaborative playlists to share music with friends.  MusicVibe is designed to adapt to your unique taste, providing an immersive musical experience that connects you with the sounds you love. Explore, discover, and enjoy your personalized sonic world.",
+    "size": 80,
+    "reviews": 3400,
+    "ratingAvg": 4.7,
+    "downloads": "7.8M",
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 170 },
+      { "name": "3 star", "count": 290 },
+      { "name": "4 star", "count": 780 },
+      { "name": "5 star", "count": 2030 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/Q3snCVx4/Travel-Mate.png",
+    "title": "TravelMate",
+    "companyName": "JourneySoft Inc.",
+    "id": 6,
+    "description": "Embark on your dream getaways with TravelMate, the ultimate travel companion.  This all-in-one app simplifies every aspect of your trip planning, from itinerary management to hotel deals and flight tracking.  Discover exciting destinations, explore local attractions, and receive AI-powered travel suggestions tailored to your unique preferences, creating unforgettable experiences.  Manage your budget with ease, stay informed with real-time flight updates, and access all your travel essentials in one place. TravelMate is designed to be your trusted partner, streamlining your journey and ensuring a smooth, enjoyable travel experience from start to finish.",
+    "size": 65,
+    "reviews": 2100,
+    "ratingAvg": 4.4,
+    "downloads": "3.2M",
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 190 },
+      { "name": "3 star", "count": 340 },
+      { "name": "4 star", "count": 640 },
+      { "name": "5 star", "count": 810 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/KcTKXY6M/Photo-Snap.webp",
+    "title": "PhotoSnap",
+    "companyName": "PixelPerfect Studio",
+    "id": 7,
+    "description": "Unleash your inner artist with PhotoSnap, the advanced photo editing app that transforms ordinary images into stunning visuals.  Create breathtaking photos with a range of AI-powered filters, effortlessly remove backgrounds, and refine your images with intuitive retouching tools.  Access a collection of professional presets to instantly elevate your photos to the next level.  PhotoSnap offers robust support for RAW editing, giving you complete control over every detail.  Share your edited masterpieces directly to social media from within the app. PhotoSnap empowers you to capture and share your creative vision with the world, making photo editing easy and enjoyable.",
+    "size": 72,
+    "reviews": 2800,
+    "ratingAvg": 4.5,
+    "downloads": "4.5M",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 720 },
+      { "name": "5 star", "count": 1420 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/4gNKTfZj/Cook-Master.jpg",
+    "title": "CookMaster",
+    "companyName": "KitchenCraft Ltd",
+    "id": 8,
+    "description": "Elevate your culinary skills with CookMaster, the app that brings the world of cooking to your fingertips. Discover and organize a vast library of recipes, spanning global cuisines and culinary styles.  Watch step-by-step video guides for clear and easy instruction, whether you are a novice or an expert chef. Generate shopping lists automatically, based on your meal plans. CookMaster is designed for both beginner and experienced cooks, providing all the tools you need to create delicious meals with ease, explore new culinary horizons, and enjoy the art of cooking with confidence.  Transform your kitchen into a gourmet haven!",
+    "size": 49,
+    "reviews": 950,
+    "ratingAvg": 4.2,
+    "downloads": "1.2M",
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 170 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 310 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/sdjJBNLg/Finance-Pro.jpg",
+    "title": "FinancePro",
+    "companyName": "SmartMoney Apps",
+    "id": 9,
+    "description": "Take control of your financial life with FinancePro, the ultimate tool for managing your money effectively.  Empower yourself to meticulously manage your expenses, track your income streams, and set achievable budgets tailored to your financial goals.  Gain valuable insights with AI-driven analysis, helping you understand your spending habits and make informed decisions.  FinancePro supports multi-currency transactions, making it ideal for managing finances globally, and offers secure cloud backups to protect your valuable financial data.  From budgeting to expense tracking, FinancePro puts you firmly in the driver's seat of your financial future.  Start saving smarter today!",
+    "size": 41,
+    "reviews": 1150,
+    "ratingAvg": 4.3,
+    "downloads": "1.6M",
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 450 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/k2XHvR2M/Study-Buddy.webp",
+    "title": "StudyBuddy",
+    "companyName": "EduWave Systems",
+    "id": 10,
+    "description": "Make learning a breeze with StudyBuddy, the ultimate study companion designed to help you achieve academic success.  Utilize flashcards, quizzes, and interactive exercises to reinforce your knowledge and master difficult subjects.  Benefit from the guidance of AI tutors to personalize your learning experience and receive targeted support.  StudyBuddy features note syncing across devices, so your study materials are always accessible, and provides offline study mode for learning anytime, anywhere.  Track your progress with detailed analytics to identify areas for improvement and stay motivated. StudyBuddy is your all-in-one solution for smarter, more efficient learning.",
+    "size": 55,
+    "reviews": 1870,
+    "ratingAvg": 4.6,
+    "downloads": "2.9M",
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 930 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/BKS6G2g6/Shop-Smart.jpg",
+    "title": "ShopSmart",
+    "companyName": "BuyRight Inc.",
+    "id": 11,
+    "description": "ShopSmart revolutionizes the way you shop, offering a smarter, more rewarding experience. Access exclusive deals and cashback rewards, while benefiting from AI-based product recommendations tailored to your preferences. Track prices to ensure you get the best value, compare sellers to find the optimal offers, and manage your wishlists effortlessly. ShopSmart provides a comprehensive platform designed to optimize your shopping experience.  Enjoy a more efficient and cost-effective shopping experience, discovering great deals and savings while making informed purchasing decisions.  Get ready to shop smarter and save money!",
+    "size": 63,
+    "reviews": 2150,
+    "ratingAvg": 4.4,
+    "downloads": "3.5M",
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 620 },
+      { "name": "5 star", "count": 960 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/KpzmpbSj/MindEase.webp",
+    "title": "MindEase",
+    "companyName": "ZenLabs",
+    "id": 12,
+    "description": "Find inner peace and reduce stress with MindEase, your personal guide to mindfulness and relaxation.  This comprehensive app provides guided meditation sessions, soothing sleep sounds, and invigorating breathing exercises to promote mental well-being.  Customize your sessions based on your current mood and track your progress over time.  MindEase is designed to help you improve focus, reduce anxiety, and cultivate a sense of calm in your daily life.  Unwind with sleep sounds that lull you to sleep and develop a mindful practice, all within a user-friendly and supportive environment. Prioritize your mental health with MindEase and discover the benefits of mindfulness.",
+    "size": 38,
+    "reviews": 1320,
+    "ratingAvg": 4.5,
+    "downloads": "2.1M",
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 95 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 605 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/4R35KZCq/GameZone.webp",
+    "title": "GameZone",
+    "companyName": "PlayHub Studio",
+    "id": 13,
+    "description": "Dive into a world of endless entertainment with GameZone, your portal to a vast collection of free online games. Explore a diverse library of games across all genres, and start your gaming adventure today. Track your achievements, connect with friends, and earn exciting rewards for playing. Compete on leaderboards, participate in community events, and personalize your profile with custom avatars.  GameZone provides a social and engaging environment where you can discover new games, connect with other gamers, and enjoy hours of fun.  Get ready to play, compete, and explore a universe of gaming possibilities!",
+    "size": 95,
+    "reviews": 4600,
+    "ratingAvg": 4.2,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 880 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 1200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/kgVQg5WV/DocuSafe.png",
+    "title": "DocuSafe",
+    "companyName": "SecureCloud Systems",
+    "id": 14,
+    "description": "Protect your sensitive documents with DocuSafe, the secure and reliable cloud-based storage solution.  Safely store and encrypt your important documents, ensuring privacy and peace of mind.  Share files securely with others, sync your documents across multiple devices, and protect your files with password security.  DocuSafe incorporates smart search functionality, making it easy to access your files anytime, anywhere.  Whether you're managing personal records, important contracts, or confidential information, DocuSafe offers a secure and user-friendly platform for all your document storage needs. Experience the ultimate in document security.",
+    "size": 44,
+    "reviews": 850,
+    "ratingAvg": 4.1,
+    "downloads": "900K",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 280 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/bRNxSc39/Foodie-Finder.png",
+    "title": "FoodieFinder",
+    "companyName": "UrbanEats Tech",
+    "id": 15,
+    "description": "Embark on a culinary adventure with FoodieFinder, your guide to discovering delicious dining experiences.  Explore nearby restaurants, uncover hidden gems, and find the perfect spot for your next meal.  Read authentic reviews, explore menus, and order online with ease.  Receive personalized dining recommendations based on your unique taste preferences, ensuring you always find something you'll love.  FoodieFinder is designed to connect you with the best restaurants, street food spots, and culinary delights in your area. Discover, explore, and savor the diverse flavors of your community!",
+    "size": 52,
+    "reviews": 1950,
+    "ratingAvg": 4.5,
+    "downloads": "2.7M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 520 },
+      { "name": "5 star", "count": 960 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/fYN7ZyDQ/bookhaven.webp",
+    "title": "BookHaven",
+    "companyName": "ReadMore Inc.",
+    "id": 16,
+    "description": "For book lovers everywhere, BookHaven provides an immersive reading experience where you can discover, read, and discuss novels from around the world. Explore a vast library of books, enjoy seamless e-reader integration, and build your own offline library for reading on the go.  BookHaven enhances the reading experience with audiobook options.  Join a thriving reading community to share your thoughts and connect with other book enthusiasts. BookHaven is designed to be the perfect companion for every bookworm, making reading accessible and enjoyable.  Immerse yourself in the world of literature with BookHaven. Happy reading!",
+    "size": 69,
+    "reviews": 2450,
+    "ratingAvg": 4.7,
+    "downloads": "4.6M",
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 670 },
+      { "name": "5 star", "count": 1230 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/r2KKwtS5/Learn-Lang.jpg",
+    "title": "LearnLang",
+    "companyName": "LinguaTech",
+    "id": 17,
+    "description": "Unlock the world of languages with LearnLang, the ultimate language learning app. Master new languages with interactive lessons, AI tutors, and personalized feedback. Experience gamified lessons, making learning fun and engaging.  Enjoy daily challenges to keep you motivated. Learn over 30 languages, tracking your progress and celebrating your achievements.  LearnLang makes language learning easy and accessible, helping you to connect with new cultures and communicate confidently. With LearnLang, start your language journey today!",
+    "size": 59,
+    "reviews": 3150,
+    "ratingAvg": 4.6,
+    "downloads": "5.4M",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 740 },
+      { "name": "5 star", "count": 1780 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/MDJdf5zc/Weather-Now.png",
+    "title": "WeatherNow",
+    "companyName": "SkyWatchers",
+    "id": 18,
+    "description": "Stay informed with WeatherNow, your trusted source for real-time weather updates, forecasts, and alerts. Get detailed weather information, including radar maps and air quality data.  Customize your experience with widget support to keep you updated on the go. WeatherNow is your go-to companion for weather information, helping you stay prepared and informed.  Always know what the weather holds, wherever you are!",
+    "size": 33,
+    "reviews": 1700,
+    "ratingAvg": 4.2,
+    "downloads": "3.1M",
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 480 },
+      { "name": "5 star", "count": 650 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/21C33Z6j/Artify.png",
+    "title": "Artify",
+    "companyName": "VisionCraft Labs",
+    "id": 19,
+    "description": "Unleash your inner artist with Artify, the AI-powered digital art studio. Create stunning visuals with AI-generated styles, brushes, and filters.  Transform your sketches into masterpieces, collaborate with artists, and export your creations in high resolution. Artify is the perfect app for both beginners and experienced artists, providing powerful tools for creating and sharing your art. Explore your creativity and bring your vision to life.",
+    "size": 77,
+    "reviews": 2100,
+    "ratingAvg": 4.5,
+    "downloads": "3.7M",
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 640 },
+      { "name": "5 star", "count": 890 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/1GTGgrhW/Drive-Sync.png",
+    "title": "DriveSync",
+    "companyName": "AutoSmart Mobility",
+    "id": 20,
+    "description": "Enhance your driving experience with DriveSync, the smart driving companion. Track your trips, monitor fuel usage, and manage car maintenance schedules. Get valuable performance insights, safety tips, and smart navigation tools with offline map support.  DriveSync is your all-in-one solution for a smarter, safer driving experience. Stay informed, stay safe, and make the most of every drive.",
+    "size": 54,
+    "reviews": 1620,
+    "ratingAvg": 4.3,
+    "downloads": "2.5M",
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 670 }
+    ]
+  }
+]
