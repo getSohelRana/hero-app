@@ -16,9 +16,12 @@ import {
   Legend,
   ResponsiveContainer,
 } from "recharts";
+import AppErrorPage from "../Pages/AppErrorPage";
+
 
 const AppDetails = () => {
   const { id } = useParams();
+
   const { apps, loading } = useApps();
   const [isInstall, setIsInstall] = useState(false);
   const appDetails = apps.find((app) => app.id === Number(id));
@@ -35,7 +38,7 @@ const AppDetails = () => {
   } = appDetails || {};
 
   const chartsData = ratings;
-  console.log(chartsData);
+  // console.log(chartsData);
   // check install apps
   useEffect(() => {
     if (appDetails) {
@@ -46,6 +49,7 @@ const AppDetails = () => {
       setIsInstall(alreadyInstalled);
     }
   }, [id, appDetails]);
+
 
   if (loading)
     return (
@@ -73,6 +77,11 @@ const AppDetails = () => {
     toast.success("App installed successfully!");
   };
 
+  // if id wrong go to app error page
+
+  if (!appDetails) {
+    return <AppErrorPage/>;
+  }
   return (
     <div className="my-10 container mx-auto px-2 ">
       <div className="application-title text-center">
